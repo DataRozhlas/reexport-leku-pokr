@@ -7,10 +7,6 @@ module.exports = {
     filename: "output.js",
   },
 
-  node: {
-    fs: "empty",
-  },
-
   module: {
     rules: [
       {
