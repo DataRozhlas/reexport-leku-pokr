@@ -1,0 +1,104 @@
+
+# Státní ústav pro kontrolu léčiv (SÚKL)
+
+Q: V roce 2022 a počátkem roku 2023 upozornila lékárnice Ivana Daňková na podezřelé pohyby léků v souvislosti s konkrétní brněnskou lékárnou. Zkontroloval následně SÚKL tuto lékárnu? Co případná kontrola objevila?
+
+A: Ano, samozřejmě, že zkontroloval. Státní ústav pro kontrolu léčiv pečlivě zkoumá všechny podněty týkající se činností regulovaných subjektů. Na základě těchto podnětů byla 7. března 2023 provedena cílená kontrola v jedné z lékáren. Kontrola odhalila porušení zákona o léčivech a nesoučinnost dle stanoveného kontrolního řádu, což vedlo k podání návrhu na zahájení správního řízení. V důsledku toho byla lékárně udělena pokuta ve výši 150 000,- Kč za nesoučinnost, která je nyní pravomocná.
+
+Q: V květnu 2023 jsme na serveru iROZHLAS.cz upozornili, že podle dat SÚKLu chybí v lékárnách 40 procent dodávek přípravku Symbicort Turbuhaler (metodiku popisujeme v článku, ale v pouze srovnáváme počet balení dodaných do lékáren podle DIS-13 a počet vydaných balení podle LEK-13). Psali jsme, že se pravděpodobně jedná o nelegální reexport. Od června do prosince 2023 tento trend pokračoval, v jednotlivých měsících byly výdeje z lékáren o 40 až 52 procent nižší než dodávky. Domnívá se i SÚKL, že jde v případě tohoto léku o reexport? Pokud ano, jaké koná kroky, aby mu zamezil?
+
+A: Z úřední činnosti vyplývá, že některé lékárny se dopustily tzv. nenaskladňování, což znamená, že nezahrnuly tyto přípravky v různých formách (síla, velikost balení, léková forma) do své evidence skladových zásob, příjmu a výdeje. Tímto způsobem se léčivé přípravky vyjmuly z oficiálního distribučního řetězce. Kontrola úplnosti a průkaznosti evidence skladových zásob, příjmu a výdeje léčivých přípravků je standardní součástí kontroly lékárny. Jakékoli zjištěné nedostatky v této evidenci se považují za přestupek dle § 103 odst. 9 písm. d) zákona o léčivech a jsou předmětem sankcí ze strany Ústavu v rámci správních řízení.
+
+Q: Kromě léku Symbicort Turbuhaler ukazují data SÚKLu značné rozdíly mezi dodávkami a výdeji u řady dalších léků, ať už typicky vydávaných na recept (LIXIANA, CAPISTAN, VIPIDIA, BUDENOFALK UNO, DUORESP SPIROMAX, FYCOMPA, DUODART, VICTOZA, OZEMPIC, XARELTO), nebo na žádanku (ABRAXANE, DIPHERELINE S.R., ZOLADEX DEPOT, DYSPORT). U všech těchto léků distributoři do lékáren dodali desítky či stovky tisíc balení ročně, nejde tedy o okrajové léky. Lékárny vydaly o desítky tisíc balení méně, rozdíly mezi dodávkami a výdeji dosahují desítek procent. Data včetně cen uvedených léků v zahraničí opět napovídají, že může jít o reexport. Jak si chybějící dodávky u těchto léčiv vysvětluje SÚKL? (Metoda analýzy je stejná jako u zmíněného článku, tedy srovnání dodávek do lékáren a výdejů.)
+
+A: Dosud byla uzavřena řada správních řízení týkajících se přestupků podle zákona o léčivech. Ústav je informován o tom, že všechny zmíněné léčivé přípravky byly v minulosti aspoň v jedné své variantě zapojeny do situací, které lze označit předmětem tzv. nenaskladňování. Tyto případy byly Ústavem posouzeny jako přestupky dle § 103 odst. 9 písm. d) zákona o léčivech a následně byly v rámci správních řízení sankcionovány.
+
+Q: SÚKL v minulosti tvrdil, že mu zákon o léčivech neumožňuje využít hlášení distributorů (DIS-13) a lékáren (LEK-13) v takovém detailu, aby dosledoval chybějící balení léčiv v konkrétních lékárnách. Letošní novela zákona o léčivech úřadu umožňuje tato data využívat. Plánuje je SÚKL využít pro odhalování podvodů a nelegálního reexportu?
+
+A: Ano, toto tvrzení je zcela přesné. SÚKL vždy využíval data z hlášení lékáren a distributorů co nejefektivněji. Nedávno schválená novela zákona zavádí změnu v hlášeních distributorů, která spočívá v identifikaci konkrétních odběratelů, tedy lékáren. Díky této nové povinnosti bude SÚKL moci lépe sledovat, které léčivé přípravky a v jakém množství si lékárny objednávají. Informace z těchto hlášení budou po určité době nepochybně použity pro plánování cílených kontrol v lékárnách. Pro lékárny samotné novela v oblasti hlášení o distribuci léčivých přípravků nepřináší žádné změny. Nicméně, možnost porovnání množství dodaných a vydaných léčivých přípravků je pozitivním krokem. Novelizace zákona o léčivech nebude mít vliv na samotný průběh kontroly, jelikož mnoho subjektů během kontroly nevykazuje žádnou spolupráci. Informace získané z hlášení distributorů jsou samy o sobě nedostatečné pro efektivní dokazování a trestání protiprávních činů v přestupkovém řízení. Bude stále nezbytné vyžadovat dodatečné informace a důkazní materiál od distributorů, jako jsou konkrétní dodací listy, seznamy léčivých přípravků, data dodání, potvrzení o převzetí atd., a samozřejmě provést kontrolu souvisejících záznamů v lékárně, protože definice přestupku nevedení záznamů musí být jasně specifikována včetně času, rozsahu a způsobu jeho spáchání.
+
+Q: Bývalá ředitelka SÚKLu Irena Storová při rozhovoru pro ČRo loni v květnu zmínila spolupráci SÚKL a ŠÚKL, která má zamezit nelegálnímu reexportu mezi oběma zeměmi. Můžete prosím popsat, zda tato spolupráce pokračuje a v čem spočívá?
+
+A: Ano, spolupráce pokračuje výměnou informací a zjištění z dozorové činnosti, proběhly i některé společně realizované kontroly u distributorů.
+
+
+
+# Štátny ústav pre kontrolu liečiv (ŠÚKL)
+
+Q: Na serveru iROZHLAS.cz jsme loni popisovali nelegální reexporty léků z Česka do zahraničí. Tehdejší ředitelka českého SÚKL Irena Storová se vyjádřila následovně: „Na Slovensku je trošku jiná legislativa, takže když tam vyvezete léky, které nejsou primárně určené pro slovenský trh, tak pro ně neplatí přísná pravidla pro další vývoz.“ Můžete prosím specifikovat, v čem je mezi českou a slovenskou lékovou legislativou rozdíl, který umožňuje snazší export ze Slovenska? Připravují se nějaké změny této legislativy, které by vývoz znemožnily?
+
+A: ŠÚKL nie je normotvorcom, preto sa k zmenám v zákone nebude vyjadrovať. Nakoľko je legislatíva v kompetencii MZ SR, odporúčame obrátiť sa na nich.
+
+Q: Mimo záznam ředitelka SÚKLu zmínila také spolupráci SÚKL a ŠÚKL, která má reexportu mezi oběma zeměmi zamezit. Můžete prosím popsat, v čem spolupráce obou institucí v tomto směru spočívá?
+
+A: Boli vykonané cielené inšpekcie za účelom preskúmania liekového reťazca. Tieto informácie boli následne zdieľané medzi autoritami.
+
+Q (navazující): Můžu poprosit aspoň o linky na ony informace sdílené s autoritami?
+
+A: Tieto dáta, bohužiaľ, verejné nemáme ani ich neposkytujeme.
+
+
+
+# Česká lékárnická komora (ČLnK)
+
+Q: Novela zákona o léčivech, jejíž první část je platná od ledna a druhá vstoupí v platnost v červnu, by měla pomoci s omezením nelegálního reexportu. Jak?
+
+A: Prostřednictvím přesnějšího sledování pohybu léčivých přípravků přes distribuční firmy až po výdej v lékárně. Díky tomu by mělo být možné lépe zachytit případné nezákonné zacházení tohoto typu s léčivými přípravky.
+
+Q: SÚKL v minulosti tvrdil, že mu zákon neumožňuje využít hlášení distributorů a lékáren v takovém detailu, aby dosledoval chybějící balení léčiv v konkrétních lékárnách. ČLnK s jeho interpretací nesouhlasila. Je pravda, že novela tohle řeší a umožňuje SÚKLu využít neagregovaná hlášení distributorů a lékáren?
+
+A: To je skutečně pravda, nyní je to výslovně uvedeno v zákoně, přestože i z předchozí verze zákona podle nás tato možnost vyplývala.
+
+Q: Jaká sou další klíčová opatření novely a co řeší?
+
+A: Novela zákona o léčivech je poměrně komplexní, týká se i dostupnosti léčivých přípravků zavedením institutu léčivých přípravků s omezením a rezervních zásob. Jednotlivým typům subjektů ukládá celou řadu nových povinností. Optimálně by měla vést k nižší míře výpadků a nerovnoměrnosti v dodávkách. Tedy aby byly přípravky s omezenou dostupností maximálně dostupné všem lékárnám a jejich pacientům v situaci, kdy jsou v distribuci dostupné.
+
+Q: Kdy podala lékárnice Ivana Daňková na ČLnK oznámení ohledně (zřejmě) Lékárny Plus na náměstí SNP v Brně? Co oznamovala? Jak ČLnK reagovala? Mělo oznámení nějaký výsledek?
+
+A: Oznámení PharmDr. Ivany Daňkové týkající se podezření na nelegální zacházení s léčivými přípravky bylo Revizní komisi ČLnK postoupeno dne 14.2.2023. Po projednání podnětu nechala Revizní komise ČLnK provést kontrolu PharmDr. Daňkovou označené lékárny ze strany inspektorů ČLnK a na základě jejich kontrolních zjištění podala podnět na SÚKL a současně navrhla zahájit disciplinární řízení před Čestnou radou ČLnK. Ta návrhu vyhověla a zahájila disciplinární řízení s členem ČLnK ve funkci vedoucího lékárníka a odborného zástupce, které doposud není pravomocně skončeno.
+
+
+
+# Krajské úřady
+
+_Pouze kraje, které odebrání oprávnění lékárnám řešily._
+
+Q1: Odebrali jste ve vašem kraji za posledních 5 let licenci k poskytování lékárenské péče za to nelegální vývozy léčiv?
+
+Q2: Odebrali jste konkrétně i od loňského května?
+
+Q3: V kolika případech a můžete tyto případy přiblížit?
+
+A1 (Vysočina): Odbor zdravotnictví odejmul oprávnění k poskytování zdravotních služeb jednomu poskytovateli pro druh zdravotní péče lékárenská péče. Toto oprávnění bylo odejmuto na základě podnětu SÚKLu s tím, že poskytovatel zdravotních služeb závažným způsobem dlouhodobě a opakovaně porušoval povinnosti stanovené pro poskytování zdravotních služeb zákonem č. 378/2007 Sb., o léčivech a o změnách některých souvisejících zákonů, ve znění pozdějších předpisů.
+
+A2 (Vysočina): Řízení bylo zahájeno 13. 6. 2022, nepravomocné rozhodnutí odbor zdravotnictví vydal 2. 12. 2022, odvolací orgán rozhodnutí potvrdil 1. 6. 2023.
+
+A3 (Vysočina): V jednom případě.
+
+A1 (Jihomoravský): Krajský úřad Jihomoravského kraje, odbor zdravotnictví, jako příslušný správní orgán podle § 15 zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách), ve znění pozdějších předpisů vykonává státní správu v úseku zdravotnictví.
+
+Krajský úřad Jihomoravského kraje, odbor zdravotnictví zahájil řízení o odnětí oprávnění k poskytování zdravotních služeb u 1 společnosti, tj. poskytovatele zdravotních služeb v oboru péče praktické lékárenství, druhu péče lékárenská péče. V průběhu správního řízení tato společnost sama požádala o odejmutí oprávnění na základě informací ze SÚKLu o porušení povinností vyplývajících ze zákona č. 378/2007, o léčivech.
+
+A2 (Jihomoravský): Neodebrali.
+
+A3 (Jihomoravský): V 5 případech požádaly společnosti o odnětí oprávnění k poskytování ZS.
+
+A1 (Praha): Odbor zdravotnictví pražského magistrátu za posledních pět let ani od května 2023 nerozhodl o odejmutí oprávnění k poskytování zdravotních služeb v oboru lékárenská péče za nelegální vývozy léčiv.
+
+Od Státního ústavu pro kontrolu léčiv (SÚKL) jsme 2. 8. 2023 obdrželi informaci o porušení povinností vyplývajících ze zákona o léčivech a o změnách některých souvisejících zákonů u konkrétní lékárny na území hlavního města Prahy. Na základě vlastního prošetření jsme však ustoupili od zahájení správního řízení ve věci odejmutí oprávnění k poskytování zdravotních služeb v oboru lékárenská péče u zmíněného poskytovatele.
+
+Zahájení správního řízení ve věci odejmutí rozhodnutí o oprávnění k poskytování zdravotních služeb jsme neprovedli kvůli promlčecí lhůtě. V uvedeném zdravotnickém zařízení je naplánovaná kontrola v prvním pololetí tohoto roku.
+
+A1 (Moravskoslezský): Za posledních pět let nedošlo na území Moravskoslezského kraje k odejmutí oprávnění k poskytování zdravotních služeb.
+
+V ostatních případech na základě informací ze SÚKLu, některé lékárny porušily povinnosti vyplývající ze zákona č. 378/2007, o léčivech, buď tyto lékárny samy požádaly o odnětí oprávnění, nebo  správní orgán připravuje správní řízení o odnětí oprávnění k poskytování zdravotních služeb.
+
+A2 (Moravskoslezský): Od loňského května KÚ neodejmul žádné oprávnění k poskytování lékárenské péče. Ze strany SÚKL byla KÚ zaslána stručná informace o provedených kontrolách s odkazem na porušení zákonných povinností na úseku zákona o léčivech.
+
+V případě 5 poskytovatelů zdravotních služeb požádal KÚ SÚKL o doplňující informace. Následně KÚ případy individuálně posoudil a konstatoval, že dle jeho správního uvážení závěry z kontrol SÚKL neodůvodňují odejmutí oprávnění k poskytování zdravotních služeb.
+
+Obecně nepovažujeme za vhodné řešení, aby oprávnění k poskytování zdravotních služeb odjímal správní orgán, které nemá působnost v rozsahu zákona o léčivech, za vhodnější považujeme variantu, kdy je poskytovateli uložen zákaz činnosti ze strany SÚKL jako správní trest v řízení o porušení zákona o léčivech, případě je mu odejmuto souhlasné závazné stanovisko vydané SÚKL. V konečném důsledku ani odejmutí oprávnění nic neřeší, jelikož zodpovědný subjekt si může opakovaně založit novou společnost a požádat o nové oprávnění.
+
+
+
+# Policie České republiky
